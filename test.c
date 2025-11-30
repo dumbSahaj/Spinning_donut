@@ -3,9 +3,11 @@
 #include <math.h>
 #include <string.h>
 
-int k;
 
 int main (){
+    
+    int k; 
+    
     float A = 0;
     float B = 0;
     float theta, phi, z[1760];
