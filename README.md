@@ -47,7 +47,7 @@ gcc donut.c -o donut -lm
 ## File Included 
 | File               | Description                                         |
 | ------------------ | --------------------------------------------------- |
-|  [`spinning_donut.c`](./spinning-donut.c) | Complete C source code for the ASCII spinning donut |
+|  [`spinning_donut.c`](./spinning_donut.c) | Complete C source code for the ASCII spinning donut |
 
 ## Concept Used
 | Concept            | Usage                                            |
