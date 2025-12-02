@@ -61,7 +61,8 @@ gcc donut.c -o donut -lm
 
 ## Preview
 
-![Preview](https://github.com/user-attachments/assets/751be97c-e9c5-4080-96da-51762ba9c0e8)
+![Preview](https://raw.githubusercontent.com/dumbSahaj/Spinning_donut/refs/heads/main/Preview.gif)
+
 
 
 
