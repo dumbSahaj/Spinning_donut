@@ -61,6 +61,9 @@ gcc donut.c -o donut -lm
 
 ## Preview
 
+![Preview](https://github.com/user-attachments/assets/3c4c8cda-c8e8-4e31-ae06-15b563367972)
+
+
 <img width="722" height="529" alt="image" src="https://github.com/user-attachments/assets/112b6bcb-7589-40c6-b5fc-f989ef511415" />
 
 ## Author 
